@@ -1,0 +1,4 @@
+.markdownWrap {
+  display: flex;
+  justify-content: space-between;
+}
